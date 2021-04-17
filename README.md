@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on my startup Njord Technologies AS!
 - 🌱 I’m currently learning everything from backend, frontend, and everything that does not fall in those two categories.
 - 👯 I’m looking to collaborate with other and better coders to further myself!
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uzaaft)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uzaaft&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
