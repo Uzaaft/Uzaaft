@@ -6,11 +6,11 @@
 - 👯 I’m looking to collaborate with other and better coders to further myself!
 - 💻 Actively using Rust, Typescript, and Python in my day to day life.
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 643 Contributions in the Year 2021
+> 🏆 644 Contributions in the Year 2021
  > 
 > 📦 72.8 kB Used in Github's Storage 
  > 
@@ -55,10 +55,6 @@ JSON                     0 secs              ░░░░░░░░░░░�
 
 🔥 Editors: 
 Vim                      36 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-nvim                     27 mins             ███████████████████░░░░░░   75.89% 
-jafar                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.11%
 
 💻 Operating System: 
 Mac                      36 mins             █████████████████████████   100.0%
