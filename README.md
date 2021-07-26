@@ -10,7 +10,7 @@
   -  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
   -  [Neovim Config](https://github.com/ChristianChiarulli/LunarVim)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -22,9 +22,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -82,5 +82,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2021
+ Last Updated on 26/07/2021
 <!--END_SECTION:waka-->
