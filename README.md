@@ -10,19 +10,19 @@
   -  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
   -  [Neovim Config](https://github.com/ChristianChiarulli/LunarVim)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 692 Contributions in the Year 2021
+> 🏆 693 Contributions in the Year 2021
  > 
 > 📦 76.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
  > 
@@ -82,5 +82,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2021
+ Last Updated on 28/07/2021
 <!--END_SECTION:waka-->
