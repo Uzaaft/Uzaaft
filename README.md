@@ -1,4 +1,12 @@
 ### Hi there, I am Uzair Aftab! 👋
+<div align=center>  
+<img src="https://github-readme-stats.vercel.app/api?username=uzaaft&count_private=true&show_icons=true&theme=radical">
+  <br/>
+  <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzaaft&layout=compact&langs_count=15&count_private=true&theme=radical)">
+</div>
+
 
 ## I am a Data Science student, Developer and Life Long Learner!
 - 🔭 I’m currently working on my startup Njord Technologies AS!
