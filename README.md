@@ -1,11 +1,11 @@
 ### Hi there, I am Uzair Aftab! 👋
-<div align=center>  
-<img src="https://github-readme-stats.vercel.app/api?username=uzaaft&count_private=true&show_icons=true&theme=radical">
-  <br/>
-  <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzaaft&layout=compact&langs_count=15&count_private=true&theme=radical)">
-</div>
+<p float="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=uzaaft&count_private=true&show_icons=true&theme=radical" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzaaft&layout=compact&langs_count=15&count_private=true&theme=radical)" width="45%">
+  </p>
 
 
 ## I am a Data Science student, Developer and Life Long Learner!
