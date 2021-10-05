@@ -16,7 +16,7 @@
 - 🤓 Currently learning: <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%232C2D72.svg?style=for-the-badge&logo=ruby&logoColor=white"/>  
 - � I develope using: 
   -  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
-  -  [Neovim Distribution](https://github.com/LunarVim/LunarVim)
+  -  [Neovim Distribution](https://github.com/LunarVim/LunarVim) <img alt="LunarVim" src="https://www.lunarvim.org/assets/lunarvim_logo.png" width="5%"/>
   -  [Neovim Config](https://github.com/Uzaaft/lvim_rebuild)
   
 <!--START_SECTION:waka-->
