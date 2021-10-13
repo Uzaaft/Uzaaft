@@ -1,6 +1,6 @@
 ### Hi there, I am Uzair Aftab! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=uzaaft&count_private=true&show_icons=true&theme=radical" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=uzaaft&count_private=true&show_icons=true&theme=radical">
 
 
 ## I am a Data Science student, Developer and Life Long Learner!
