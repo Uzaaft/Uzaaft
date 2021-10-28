@@ -12,7 +12,7 @@
 - � I develope using: 
   -  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
   -  [Neovim Distribution](https://github.com/LunarVim/LunarVim) <img alt="LunarVim" src="https://www.lunarvim.org/assets/lunarvim_logo.png" width="5%"/>
-  -  [Neovim Config](https://github.com/Uzaaft/lvim_rebuild)
+  -  [Neovim Config](https://github.com/Uzaaft/lvim_abz)
   
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
