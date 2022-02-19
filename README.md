@@ -2,7 +2,7 @@
 
 ## I am a Data Science student, Developer and Life Long Learner!
 - 🔭 I’m currently working on my startup Njord Technologies AS!
-- 🌱 I’m currently learning everything from backend, frontend, High Performance Computing and everything that does not fall in those categories.
+- 🌱 I’m currently learning everything from cloud computing, backend, frontend, High Performance Computing and everything that does not fall in those categories.
 - 💻 Actively using: <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 - 🤓 Currently learning: Compilers and ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 - � I develope using: 
