@@ -6,7 +6,7 @@
 - 💻 Actively using: <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 - 🤓 Currently learning: Compilers and ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 - � I develope using: 
-  -  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+  - ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   -  [Neovim Distribution](https://github.com/LunarVim/LunarVim) <img alt="LunarVim" src="https://www.lunarvim.org/assets/lunarvim_logo.png" width="5%"/>
   -  [Neovim Config](https://github.com/Uzaaft/lvim_abz)
   
