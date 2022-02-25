@@ -11,27 +11,27 @@
   -  [Neovim Config](https://github.com/Uzaaft/lvim_abz)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 103 Contributions in the Year 2022
+> 🏆 157 Contributions in the Year 2022
  > 
-> 📦 86.2 kB Used in GitHub's Storage 
+> 📦 81.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
  > 
-> 🔑 35 Private Repositories  
+> 🔑 34 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    317 commits    █████████░░░░░░░░░░░░░░░░   37.16% 
-🌆 Daytime    383 commits    ███████████░░░░░░░░░░░░░░   44.9% 
-🌃 Evening    123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-🌙 Night      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.52%
+🌞 Morning    330 commits    █████████░░░░░░░░░░░░░░░░   36.54% 
+🌆 Daytime    397 commits    ███████████░░░░░░░░░░░░░░   43.96% 
+🌃 Evening    146 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.17% 
+🌙 Night      30 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32%
 
 ```
 
@@ -42,13 +42,17 @@
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.38% 
+Rust                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   23.16% 
+tmux                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.62%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 24 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
@@ -69,5 +73,5 @@ TypeScript               6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Uzaaft/Uzaaft/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2022 00:38:34 UTC
+ Last Updated on 25/02/2022 00:41:29 UTC
 <!--END_SECTION:waka-->
