@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **rust, HPC, Backend Development, Frontend Development and everything that falls in between**
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uzaaft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzaaft" height="30" width="40" /></a>
@@ -23,3 +25,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/uzaaft
