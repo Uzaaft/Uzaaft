@@ -8,7 +8,7 @@
  
 </div>
 
-- 🔭 I’m currently working on my starup **Njord Technologies**
+- 🔭 I’m currently working on my startup **Njord Technologies**
 
 - 🌱 I’m currently learning **rust, HPC, Backend Development, Frontend Development and everything that falls in between**
 
