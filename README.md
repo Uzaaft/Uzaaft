@@ -4,7 +4,9 @@
 <h3 align="center">A Data Science student, Developer and Life Long Learner!</h3>
 <div align="center">
   
-[![uzaaft's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzaaft&count_private=true&show_icons=true&bg_color=1F1F28&text_color=DCD7BA&title_color=7E9CD8&icon_color=E6C384&border_color=C8C093)](https://github.com/anuraghazra/github-readme-stats)
+(https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=uzaaft&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" />
+
  
 </div>
 
