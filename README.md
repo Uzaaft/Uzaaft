@@ -4,7 +4,7 @@
 <h3 align="center">A Data Science student, Developer and Life Long Learner!</h3>
 <div align="center">
   
-(https://github.com/anuraghazra/github-readme-stats)
+
 <img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=uzaaft&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" />
 
  
