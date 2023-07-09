@@ -5,7 +5,7 @@
 <div align="center">
   
 
-<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=uzaaft&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" />
+<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=uzaaft" />
 
  
 </div>
